@@ -1,0 +1,1028 @@
+{
+  "error_code": 0,
+  "error_text": "OK",
+  "data": [
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "4d11d92f-00a3-4738-afc4-8cb5f4dcad4b",
+      "displayName": "Александр Алексеевич",
+      "eMail": "t2@pryaniky.com",
+      "imgId": "2214911f-fe12-41c2-966c-71e764deec94",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/2214911f-fe12-41c2-966c-71e764deec94",
+      "position": "Босс-молокосос",
+      "division": "Отряд виртуальных персонажей",
+      "phone": "",
+      "birthday": "2017-07-01T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "c1c99d6f-a3ff-443a-9921-65b3194b77bc",
+      "displayName": "Александр Ефимов",
+      "eMail": "ae@pryaniky.ru",
+      "imgId": "00000000-0000-0000-0000-000000000000",
+      "sex": "m",
+      "imgUrl": "http://dreamteam.pryaniky.com/content/img/nophoto.png",
+      "position": "Разработчик Frontend",
+      "division": "",
+      "phone": "+7 (919) 968-71-65",
+      "birthday": "1995-09-09T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "533772c2-bcbe-4be4-a719-3e1fee303354",
+      "displayName": "Александр Семин",
+      "eMail": "as@pryaniky.ru",
+      "imgId": "5a578e75-adb6-42ac-9992-2d671f895082",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/5a578e75-adb6-42ac-9992-2d671f895082",
+      "position": "Разработчик frontend",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+7(916)2031326",
+      "birthday": "1992-03-01T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "3a4aa956-ef8b-4722-aeca-0528147b9844",
+      "displayName": "Алексей Любко",
+      "eMail": "al@pryaniky.com",
+      "imgId": "308bd045-9a05-4ab4-808a-4fd06262ebdb",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/308bd045-9a05-4ab4-808a-4fd06262ebdb",
+      "position": "генерально-технический директор",
+      "division": "департамент разработки замечательных вещей",
+      "phone": "+7(926)5892735",
+      "birthday": "1983-09-22T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "5e21d6dd-5fe2-4077-8bdd-619818a0946f",
+      "displayName": "Алексей Микшунас",
+      "eMail": "am@pryaniky.ru",
+      "imgId": "00000000-0000-0000-0000-000000000000",
+      "sex": "m",
+      "imgUrl": "http://dreamteam.pryaniky.com/content/img/nophoto.png",
+      "position": "Тестировщик",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "",
+      "birthday": "1987-07-04T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "32f7207a-fd51-4838-aad2-0a30f398707b",
+      "displayName": "Анастасия Чилина",
+      "eMail": "ach@pryaniky.ru",
+      "imgId": "99ee522b-622b-46b2-b786-78f7e2685731",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/99ee522b-622b-46b2-b786-78f7e2685731",
+      "position": "Ассистент",
+      "division": "Отдел нанесения непоправимой пользы",
+      "phone": "++7(985)9504509",
+      "birthday": "1997-11-18T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "fcbe22a2-5fc9-4982-8183-cb28aa230066",
+      "displayName": "Антон Рахманов",
+      "eMail": "ar@pryaniky.ru",
+      "imgId": "b5062bd1-690e-4cd8-9d13-c44717ee0dcb",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/b5062bd1-690e-4cd8-9d13-c44717ee0dcb",
+      "position": "IT-стажер",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+7(977)8976987",
+      "birthday": "1994-12-12T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "c2a79154-c55c-4275-ad71-6261a030cde6",
+      "displayName": "Бага amp Фича",
+      "eMail": "t1@pryaniky.com",
+      "imgId": "b70d17ee-f8ff-4d14-a628-ad5280dc3de3",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/b70d17ee-f8ff-4d14-a628-ad5280dc3de3",
+      "position": "Самые главные",
+      "division": "Отряд виртуальных персонажей",
+      "phone": "",
+      "birthday": "2012-01-10T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "aa219a59-d36e-4198-8da1-ec61d57411fb",
+      "displayName": "Влад Максимов",
+      "eMail": "vm@pryaniky.ru",
+      "imgId": "6149ccb5-0aee-47a5-8c8c-4c4aa05b7fd2",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/6149ccb5-0aee-47a5-8c8c-4c4aa05b7fd2",
+      "position": "Ведущий разработчик",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "",
+      "birthday": "1978-06-14T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "46243192-18ed-47fa-8bab-296f7d91bf3e",
+      "displayName": "Грозная Роуз",
+      "eMail": "t3@pryaniky.com",
+      "imgId": "be2bca69-e8c4-452b-ba7b-c6366a943902",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/be2bca69-e8c4-452b-ba7b-c6366a943902",
+      "position": "Я слежу за вами, непрерывно и очень внимательно!",
+      "division": "Отряд виртуальных персонажей",
+      "phone": "",
+      "birthday": null
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "edda9171-3b5c-493e-bd3b-0c178651127a",
+      "displayName": "Гульмира Пушкарева",
+      "eMail": "gp@pryaniky.ru",
+      "imgId": "55552e95-ff94-447a-8bfa-57e14db18818",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/55552e95-ff94-447a-8bfa-57e14db18818",
+      "position": "Профессор зельеварения",
+      "division": "Департамент игровой магии",
+      "phone": "+7(916)3756068",
+      "birthday": "1971-12-05T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "a912ff3c-51a0-41a9-91ef-c2fae989f10e",
+      "displayName": "Денис Янушевский",
+      "eMail": "dy@pryaniky.ru",
+      "imgId": "b5ae8c3a-1a60-4829-acb6-ac7b0110fc01",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/b5ae8c3a-1a60-4829-acb6-ac7b0110fc01",
+      "position": "помогаю клиентам понять, что им очень нужны пряники))))",
+      "division": "Департамент по внедрению клиентам счастья",
+      "phone": "+7(909)6516127",
+      "birthday": "1985-07-01T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "05aa16d1-6374-4c8a-998b-b1f7f7257ac0",
+      "displayName": "Дмитрий Давыдов",
+      "eMail": "dd@pryaniky.ru",
+      "imgId": "5f7dbb11-826d-4a76-8d7e-13aac45b46cf",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/5f7dbb11-826d-4a76-8d7e-13aac45b46cf",
+      "position": "Разработчик .net",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+7(963)6934368",
+      "birthday": "1996-12-17T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "88d0809c-4e10-43e3-9156-39642185d05e",
+      "displayName": "Евгения Любко",
+      "eMail": "es@pryaniky.com",
+      "imgId": "972e65d5-be71-49e2-85f5-4edcb48b8e9f",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/972e65d5-be71-49e2-85f5-4edcb48b8e9f",
+      "position": "пряничных дел мастер | директор по развитию",
+      "division": "департамент разработки замечательных вещей",
+      "phone": "+7(926)5826505",
+      "birthday": "1985-05-18T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "8958626f-d0c1-4b21-85d0-11f3b14ac03d",
+      "displayName": "Иван Пахомов",
+      "eMail": "ip@pryaniky.ru",
+      "imgId": "de50d79b-2b8d-404f-aae7-e33e7568b716",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/de50d79b-2b8d-404f-aae7-e33e7568b716",
+      "position": "Специалист по внедрению и сопровождению ПО",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+8(903)5039200",
+      "birthday": "1986-06-07T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "345f2019-7aa7-4033-ab6a-115765539a97",
+      "displayName": "Илья Корсуков",
+      "eMail": "ik@pryaniky.ru",
+      "imgId": "00000000-0000-0000-0000-000000000000",
+      "sex": "m",
+      "imgUrl": "http://dreamteam.pryaniky.com/content/img/nophoto.png",
+      "position": "Разработчик Android",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+7(905)5153388",
+      "birthday": "1997-07-29T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "aa9921db-7c68-49b3-ae49-dcded8f1db9a",
+      "displayName": "Илья Морозов",
+      "eMail": "paramorozov@gmail.com",
+      "imgId": "189a7d1a-10ca-45f5-9909-c0779b7c6385",
+      "sex": "m",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/189a7d1a-10ca-45f5-9909-c0779b7c6385",
+      "position": "производитель производительности труда",
+      "division": "специального назначения",
+      "phone": "+8(916)8882945",
+      "birthday": "1985-07-29T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "85af44bc-e431-46db-b157-55a1aa2862a9",
+      "displayName": "Ирма Иванова",
+      "eMail": "ii@pryaniky.ru",
+      "imgId": "cd8e855b-f44b-4e19-9d2b-0a8cdc52c524",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/cd8e855b-f44b-4e19-9d2b-0a8cdc52c524",
+      "position": "Frontend-разработчик(стажёр)",
+      "division": "Департамент разработки замечательных вещей",
+      "phone": "+7(968)6456504",
+      "birthday": "1991-01-15T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "d6488993-e875-44b1-8b61-859d420fe8d5",
+      "displayName": "Карина Мельникова",
+      "eMail": "km@pryaniky.ru",
+      "imgId": "824b0990-6dcb-4b00-b789-0fb88d7c62b5",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/824b0990-6dcb-4b00-b789-0fb88d7c62b5",
+      "position": "Шеф - геймификатор ;)",
+      "division": "Департамент замечательных идей",
+      "phone": "+7(965)3248240",
+      "birthday": "1992-08-10T00:00:00.000Z"
+    },
+    {
+      "actions": [
+        "reinvite",
+        "delete"
+      ],
+      "fields": [
+        {
+          "field": {
+            "showInHead": true,
+            "showInUserList": false,
+            "isHidden": false,
+            "id": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+            "propertyName": "city",
+            "name": "Город",
+            "description": "",
+            "fieldType": "String",
+            "isMandatory": false,
+            "visibility": null,
+            "isReadOnly": false,
+            "showOnIdeaCardView": false,
+            "maxLength": 1024,
+            "position": 0,
+            "defaultValue": "Москва",
+            "mask": "",
+            "category": "",
+            "displayMode": "",
+            "additionalParam1": null,
+            "linkedFieldStatus": null,
+            "disableExpression": "",
+            "answers": [],
+            "rows": []
+          },
+          "fieldId": "dbb371b1-c5aa-4d91-a10b-a8cf39fe969d",
+          "value": "Москва",
+          "values": [],
+          "rowValues": {},
+          "users": null,
+          "tags": null
+        }
+      ],
+      "id": "ae1d69a6-fff2-44dd-904d-ce287135c94d",
+      "displayName": "Катерина",
+      "eMail": "ktipkova@gmail.com",
+      "imgId": "a073413d-2e63-4532-b125-22289cfb0a41",
+      "sex": "f",
+      "imgUrl": "//cdnbeta.pryaniky.com/images/a073413d-2e63-4532-b125-22289cfb0a41",
+      "position": "разыгравшийся маркетолог",
+      "division": "Маркетинг",
+      "phone": "+7(926)1393112",
+      "birthday": "1982-12-06T00:00:00.000Z"
+    }
+  ],
+  "length": 20,
+  "isFinished": false
+}
